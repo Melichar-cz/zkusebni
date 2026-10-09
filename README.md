@@ -1,11 +1,13 @@
 # Třída #
 
-## Žáci ve třídě ##
+ Je na třebešíně
 
-- Adrian
+## Žáci ve třídě (Nadpis2) ##
+
+- Adrian (Body)
 - Matouš
 - Sam
 
-  *Upozornění!* **Tohle je celá třída**
+  *Upozornění!(zkosený text)* **Tohle je celá třída (tučné)**
 
   
